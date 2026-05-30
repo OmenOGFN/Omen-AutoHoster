@@ -1,0 +1,5 @@
+x64/
+Omen-AutoHoster
+*.vcxproj.user
+.vs
+config.ini
